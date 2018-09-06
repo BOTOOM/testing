@@ -9,4 +9,4 @@
 ![imagen](/img/thing.png)
 </center>
 </details>
-jose.0800@hotmail.com
+![correo](jose.0800@hotmail.com)
