@@ -2,7 +2,7 @@
 <details>
 <summary>Daniel Medina</summary>
 <font color="red">
-![Mapache](img/527175-istock-514622028.jpg)
+![Mapache](img/m.jpg)
 algo de informacion
 </font>
 </details>
