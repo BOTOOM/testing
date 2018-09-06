@@ -2,7 +2,7 @@
 <details>
 <summary>Daniel Medina</summary>
 <font color="red">
-![Mapache](img/m.jpg "mapache")
+<img src="img/m.jpg"></img>
 algo de informacion
 </font>
 </details>
