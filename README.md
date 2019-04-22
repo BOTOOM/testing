@@ -1,5 +1,6 @@
 # testing
 
+<<<<<<< HEAD
 <details>
 <summary>Edwar Diaz</summary>
 _**codigo:** 20181020004_
@@ -8,3 +9,6 @@ _**codigo:** 20181020004_
 
 
 </details>
+=======
+rayancast.0303@gmail.com
+>>>>>>> 998e686eeed48df35135a230c93395386d6c7ccd
